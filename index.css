@@ -1,0 +1,864 @@
+.background-yellow {
+    position: absolute;
+    top: 1632px;
+    left: 0px;
+    background-color: rgba(245, 196, 81, 0.15);
+    width: 2166px;
+    height: 6258px;
+}
+.footer-background {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #cee9ef;
+    width: 2166px;
+    height: 326px;
+}
+.phone-text {
+    position: absolute;
+    top: 0px;
+    left: 142px;
+    line-height: 42px;
+    display: flex;
+    align-items: center;
+    width: 900px;
+    height: 283px;
+}
+.phone-icon {
+    position: absolute;
+    top: 82px;
+    left: 0px;
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+}
+.iconphone {
+    width: 1042px;
+    position: relative;
+    height: 283px;
+}
+.order-wrap {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 10px;
+    background-color: #cee9ef;
+    border: 5px solid #023748;
+    box-sizing: border-box;
+    width: 702px;
+    height: 107px;
+}
+.order-text {
+    position: absolute;
+    top: 12px;
+    left: 70px;
+    text-decoration: underline;
+    line-height: 82px;
+    font-weight: 500;
+    color: inherit;
+    display: flex;
+    align-items: center;
+    width: 602.5px;
+    height: 83px;
+}
+.order-button {
+    width: 702px;
+    position: relative;
+    height: 107px;
+    font-size: 56px;
+}
+.footer-wrap {
+    position: absolute;
+    top: 21px;
+    left: 195px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-content: center;
+    gap: 13px;
+}
+.footer {
+    position: absolute;
+    top: 7875px;
+    left: 2px;
+    width: 2166px;
+    height: 326px;
+    font-size: 96px;
+}
+.wrap {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 10px;
+    background-color: #cee9ef;
+    width: 200px;
+    height: 107px;
+}
+.a {
+    position: absolute;
+    top: 12px;
+    left: 51px;
+    text-decoration: underline;
+    line-height: 42px;
+    font-weight: 700;
+    color: inherit;
+    display: flex;
+    align-items: center;
+    width: 129.4px;
+    height: 83px;
+}
+.squid-button {
+    position: absolute;
+    top: 648px;
+    left: 1663px;
+    width: 200px;
+    height: 107px;
+}
+.squid-text {
+    position: absolute;
+    top: 624px;
+    left: 901px;
+    font-size: 32px;
+    line-height: 42px;
+    color: #000;
+    white-space: pre-wrap;
+    display: flex;
+    align-items: center;
+    width: 729px;
+    height: 125px;
+}
+.squid-pic-icon {
+    position: absolute;
+    top: 147px;
+    left: 0px;
+    width: 1887px;
+    height: 501px;
+    object-fit: cover;
+}
+.header-squid {
+    position: absolute;
+    top: 638px;
+    left: 97px;
+    font-size: 44px;
+    line-height: 54px;
+    font-weight: 600;
+    color: #000;
+    display: flex;
+    align-items: center;
+    width: 710px;
+    height: 124px;
+}
+.header-2-squid {
+    position: absolute;
+    top: 0px;
+    left: 363px;
+    font-size: 94px;
+    line-height: 120px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    width: 1242px;
+    height: 119px;
+}
+.squid {
+    position: absolute;
+    top: 6762px;
+    left: 100px;
+    width: 1887px;
+    height: 762px;
+}
+.button85-2 {
+    position: absolute;
+    top: 1150px;
+    left: 57px;
+    width: 200px;
+    height: 107px;
+    color: #023748;
+}
+.redberry-comp-text {
+    position: absolute;
+    top: 946px;
+    left: 57px;
+    font-size: 32px;
+    line-height: 42px;
+    display: flex;
+    align-items: center;
+    width: 385px;
+    height: 125px;
+}
+.redberry-comp-header {
+    position: absolute;
+    top: 812px;
+    left: 57px;
+    font-size: 44px;
+    line-height: 54px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    width: 445px;
+    height: 124px;
+}
+.redberry-comp-pic-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 448px;
+    height: 844px;
+    object-fit: cover;
+}
+.redberry-comp {
+    position: absolute;
+    top: 147px;
+    left: 1390px;
+    width: 502px;
+    height: 1257px;
+}
+.button85-1 {
+    position: absolute;
+    top: 1117px;
+    left: 63px;
+    width: 200px;
+    height: 107px;
+    color: #023748;
+}
+.blackberry-comp-text {
+    position: absolute;
+    top: 913px;
+    left: 63px;
+    font-size: 32px;
+    line-height: 42px;
+    display: flex;
+    align-items: center;
+    width: 385px;
+    height: 84px;
+}
+.blackberry-comp-header {
+    position: absolute;
+    top: 779px;
+    left: 63px;
+    font-size: 44px;
+    line-height: 54px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    width: 445px;
+    height: 124px;
+}
+.blackberry-comp-pic-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 477px;
+    height: 779px;
+    object-fit: cover;
+}
+.blackberry-comp {
+    position: absolute;
+    top: 180px;
+    left: 942px;
+    width: 508px;
+    height: 1224px;
+}
+.button65 {
+    position: absolute;
+    top: 1149px;
+    left: 35px;
+    width: 200px;
+    height: 107px;
+    color: #023748;
+}
+.cherry-comp-text {
+    position: absolute;
+    top: 945px;
+    left: 35px;
+    font-size: 32px;
+    line-height: 42px;
+    display: flex;
+    align-items: center;
+    width: 385px;
+    height: 125px;
+}
+.cherry-comp-header {
+    position: absolute;
+    top: 811px;
+    left: 35px;
+    font-size: 44px;
+    line-height: 54px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    width: 445px;
+    height: 124px;
+}
+.cherry-comp-pic-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 422px;
+    height: 843px;
+    object-fit: cover;
+}
+.cherry-comp {
+    position: absolute;
+    top: 148px;
+    left: 500px;
+    width: 480px;
+    height: 1256px;
+}
+.button651 {
+    position: absolute;
+    top: 1150px;
+    left: 55px;
+    width: 200px;
+    height: 107px;
+    color: #023748;
+}
+.apple-comp-text {
+    position: absolute;
+    top: 946px;
+    left: 55px;
+    font-size: 32px;
+    line-height: 42px;
+    display: flex;
+    align-items: center;
+    width: 385px;
+    height: 125px;
+}
+.apple-comp-header {
+    position: absolute;
+    top: 812px;
+    left: 55px;
+    font-size: 44px;
+    line-height: 54px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    width: 445px;
+    height: 124px;
+}
+.apple-comp-pic-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 477px;
+    height: 843px;
+    object-fit: cover;
+}
+.apple-comp {
+    position: absolute;
+    top: 147px;
+    left: 0px;
+    width: 500px;
+    height: 1257px;
+}
+.header-2-compote {
+    position: absolute;
+    top: 0px;
+    left: 476px;
+    font-size: 94px;
+    line-height: 120px;
+    font-weight: 600;
+    color: #023748;
+    display: flex;
+    align-items: center;
+    width: 940px;
+    height: 119px;
+}
+.compotes {
+    position: absolute;
+    top: 5195px;
+    left: 138px;
+    width: 1892px;
+    height: 1404px;
+    color: #000;
+}
+.button92 {
+    position: absolute;
+    top: 1419.19px;
+    left: 216.94px;
+    width: 200px;
+    height: 107px;
+    color: #023748;
+}
+.puzzle-text {
+    position: absolute;
+    top: 1222.19px;
+    left: 216.94px;
+    font-size: 32px;
+    line-height: 42px;
+    display: flex;
+    align-items: center;
+    width: 625px;
+    height: 125px;
+}
+.puzzle-header {
+    position: absolute;
+    top: 1081.19px;
+    left: 216.94px;
+    font-size: 44px;
+    line-height: 54px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    width: 574px;
+    height: 124px;
+}
+.berry-pic-icon {
+    position: absolute;
+    top: 107.11px;
+    left: 345.34px;
+    width: 627.6px;
+    height: 976.9px;
+    object-fit: contain;
+}
+.mango-pic-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 700.2px;
+    height: 986.4px;
+    object-fit: contain;
+}
+.puzzles {
+    width: 972.9px;
+    position: relative;
+    height: 1526.2px;
+}
+.button86 {
+    position: absolute;
+    top: 1436.48px;
+    left: 159.26px;
+    width: 200px;
+    height: 107px;
+    color: #023748;
+}
+.balls-text {
+    position: absolute;
+    top: 1239.48px;
+    left: 159.26px;
+    font-size: 32px;
+    line-height: 42px;
+    white-space: pre-wrap;
+    display: flex;
+    align-items: center;
+    width: 729px;
+    height: 125px;
+}
+.balls-header {
+    position: absolute;
+    top: 1098.48px;
+    left: 159.26px;
+    font-size: 44px;
+    line-height: 54px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    width: 680px;
+    height: 124px;
+}
+.raspberry-ball-pic-icon {
+    position: absolute;
+    top: 0px;
+    left: 367.45px;
+    width: 750.6px;
+    height: 935.7px;
+    object-fit: contain;
+}
+.strawberry-ball-pic-icon {
+    position: absolute;
+    top: 98.41px;
+    left: 0px;
+    width: 765.7px;
+    height: 955.6px;
+    object-fit: contain;
+}
+.balls {
+    width: 1118px;
+    position: relative;
+    height: 1543.5px;
+}
+.puzzlesballs {
+    position: absolute;
+    top: 148.52px;
+    left: 0px;
+    width: 2216.7px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: space-between;
+}
+.header-2-puzzles {
+    position: absolute;
+    top: 0px;
+    left: 216.94px;
+    font-size: 94px;
+    line-height: 120px;
+    font-weight: 600;
+    color: #023748;
+    display: flex;
+    align-items: center;
+    width: 1830px;
+    height: 79px;
+}
+.fruit-puzzles {
+    position: absolute;
+    top: 3340px;
+    left: -23.94px;
+    width: 2216.7px;
+    height: 1692px;
+    color: #000;
+}
+.header-2-friut-puree {
+    align-self: stretch;
+    position: relative;
+    line-height: 120px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 79px;
+    flex-shrink: 0;
+}
+.button75 {
+    position: absolute;
+    top: 991px;
+    left: 0px;
+    width: 200px;
+    height: 107px;
+    color: #023748;
+}
+.apple-mango-text {
+    position: absolute;
+    top: 787px;
+    left: 0px;
+    font-size: 32px;
+    line-height: 42px;
+    display: flex;
+    align-items: center;
+    width: 546px;
+    height: 125px;
+}
+.apple-mango-header {
+    position: absolute;
+    top: 653px;
+    left: 0px;
+    font-size: 44px;
+    line-height: 54px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    width: 385px;
+    height: 124px;
+}
+.apple-mango-pic-icon {
+    position: absolute;
+    top: 0px;
+    left: 25px;
+    width: 520px;
+    height: 627px;
+    object-fit: cover;
+}
+.apple-mango {
+    width: 546px;
+    position: relative;
+    height: 1098px;
+}
+.fruit-mix-header {
+    position: absolute;
+    top: 653px;
+    left: 0px;
+    font-size: 44px;
+    line-height: 54px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    width: 475px;
+    height: 124px;
+}
+.fruit-mix-pic-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 524px;
+    height: 627px;
+    object-fit: cover;
+}
+.button861 {
+    position: absolute;
+    top: 994px;
+    left: 0px;
+    width: 200px;
+    height: 107px;
+    color: #023748;
+}
+.apple-blackberry-text {
+    position: absolute;
+    top: 790px;
+    left: 0px;
+    font-size: 32px;
+    line-height: 42px;
+    display: flex;
+    align-items: center;
+    width: 546px;
+    height: 125px;
+}
+.apple-blackberry-header {
+    position: absolute;
+    top: 656px;
+    left: 0px;
+    font-size: 44px;
+    line-height: 54px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    width: 475px;
+    height: 124px;
+}
+.apple-blackberry-pic-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 507px;
+    height: 646px;
+    object-fit: cover;
+}
+.apple-blackberry {
+    width: 546px;
+    position: relative;
+    height: 1101px;
+}
+.banki {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: space-between;
+    text-align: left;
+    font-size: 48px;
+    color: #000;
+}
+.fruit-puree {
+    position: absolute;
+    top: 1916px;
+    left: 193px;
+    width: 1808px;
+    height: 1210px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    font-size: 94px;
+}
+.header-background {
+    position: absolute;
+    top: 0px;
+    left: 64px;
+    background-color: #cee9ef;
+    width: 2166px;
+    height: 1484px;
+}
+.menu-wrap {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 10px;
+    background-color: #cee9ef;
+    border: 2px solid #023748;
+    box-sizing: border-box;
+    width: 1038px;
+    height: 107px;
+}
+.about {
+    width: 189px;
+    position: relative;
+    text-decoration: underline;
+    line-height: 42px;
+    font-weight: 500;
+    color: inherit;
+    display: flex;
+    align-items: center;
+    height: 83px;
+    flex-shrink: 0;
+}
+.products {
+    width: 209px;
+    position: relative;
+    text-decoration: underline;
+    line-height: 42px;
+    font-weight: 500;
+    color: inherit;
+    display: flex;
+    align-items: center;
+    height: 83px;
+    flex-shrink: 0;
+}
+.we-help {
+    width: 273px;
+    position: relative;
+    text-decoration: underline;
+    line-height: 42px;
+    font-weight: 500;
+    color: inherit;
+    display: flex;
+    align-items: center;
+    height: 83px;
+    flex-shrink: 0;
+}
+.contacts {
+    width: 212px;
+    position: relative;
+    text-decoration: underline;
+    line-height: 42px;
+    font-weight: 500;
+    color: inherit;
+    display: flex;
+    align-items: center;
+    height: 83px;
+    flex-shrink: 0;
+}
+.menu-links {
+    position: absolute;
+    top: 12px;
+    left: 49px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 29px;
+}
+.main-menu {
+    width: 1038px;
+    position: relative;
+    height: 107px;
+}
+.login-wrap {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 10px;
+    background-color: #cee9ef;
+    border: 2px solid #023748;
+    box-sizing: border-box;
+    width: 200px;
+    height: 107px;
+}
+.login-text {
+    position: absolute;
+    top: 12px;
+    left: 51px;
+    text-decoration: underline;
+    line-height: 42px;
+    font-weight: 500;
+    color: inherit;
+    display: flex;
+    align-items: center;
+    width: 129.4px;
+    height: 83px;
+}
+.login {
+    width: 200px;
+    position: relative;
+    height: 107px;
+}
+.menu {
+    position: absolute;
+    top: 80px;
+    left: 628px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 162px;
+}
+.header-1 {
+    position: absolute;
+    top: 267px;
+    left: 429px;
+    font-size: 128px;
+    line-height: 148px;
+    font-weight: 600;
+    color: #000;
+    display: flex;
+    align-items: center;
+    width: 1435px;
+    height: 449px;
+}
+.biggest-pic-icon {
+    position: absolute;
+    top: 699px;
+    left: 619px;
+    width: 1057px;
+    height: 785px;
+    object-fit: cover;
+}
+.apple-icon {
+    position: absolute;
+    top: 998px;
+    left: 1180px;
+    width: 663px;
+    height: 663px;
+    object-fit: contain;
+}
+.pear-icon {
+    position: absolute;
+    top: 473.85px;
+    left: 1570.97px;
+    width: 745.8px;
+    height: 757px;
+    object-fit: contain;
+}
+.banana-icon {
+    position: absolute;
+    top: 449px;
+    left: 0px;
+    width: 744.6px;
+    height: 689.7px;
+    object-fit: contain;
+}
+.peach-icon {
+    position: absolute;
+    top: 1057px;
+    left: 101px;
+    width: 784.9px;
+    height: 722.5px;
+    object-fit: contain;
+}
+.logo-icon {
+    position: absolute;
+    top: 55px;
+    left: 225px;
+    width: 245.6px;
+    height: 141px;
+    object-fit: cover;
+}
+.header {
+    position: absolute;
+    top: 175px;
+    left: -64px;
+    width: 2316.8px;
+    height: 1779.5px;
+    font-size: 36px;
+}
+.html-wrap-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 2168.4px;
+    height: 175px;
+    object-fit: cover;
+}
+.main-fruit {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 8201px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 48px;
+    color: #023748;
+    font-family: 'Instrument Sans';
+}
+
