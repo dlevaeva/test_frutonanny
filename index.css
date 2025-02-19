@@ -52,6 +52,7 @@
     position: absolute;
     top: 12px;
     left: 70px;
+    text-decoration: none;
     line-height: 82px;
     font-weight: 500;
     color: inherit;
@@ -99,6 +100,7 @@
     position: absolute;
     top: 12px;
     left: 51px;
+    text-decoration: none;
     line-height: 42px;
     font-weight: 700;
     color: inherit;
@@ -672,6 +674,7 @@
 .about {
     width: 189px;
     position: relative;
+    text-decoration: none;
     line-height: 42px;
     font-weight: 500;
     color: inherit;
@@ -683,6 +686,7 @@
 .products {
     width: 209px;
     position: relative;
+    text-decoration: none;
     line-height: 42px;
     font-weight: 500;
     color: inherit;
@@ -694,6 +698,7 @@
 .we-help {
     width: 273px;
     position: relative;
+    text-decoration: none;
     line-height: 42px;
     font-weight: 500;
     color: inherit;
@@ -705,6 +710,7 @@
 .contacts {
     width: 212px;
     position: relative;
+    text-decoration: none;
     line-height: 42px;
     font-weight: 500;
     color: inherit;
@@ -743,6 +749,7 @@
     position: absolute;
     top: 12px;
     left: 51px;
+    text-decoration: none;
     line-height: 42px;
     font-weight: 500;
     color: inherit;
